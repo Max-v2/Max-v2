@@ -10,7 +10,7 @@ Soy un joven desarrollador y estudiante de Ingeniería en Informática, con una 
 
 ### 🌱 Actualmente estoy aprendiendo:
 
-- **Hacking ético y Redes**
+- **Ciberseguridad y Redes**
 - **Python**
 - **Desarrollo seguro de aplicaciones web.**
 - **Automatización de tareas con scripts.**
