@@ -50,7 +50,7 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center"><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmJ6ZWl6YnNqM216aHAwYWJqMmh6dWRyMnZpdXV1MzN5Y25zZnhzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" alt="GitHub Stats" /> Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Gɪᴛʜᴜʙ Sᴛᴀᴛs <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h2>
 
 <table width="100%">
   <tr>
