@@ -99,7 +99,9 @@
 </div>
 
 ---
+### 🎖 &nbsp;My Badges 
 
+[![An image of @Max-v2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Max-v2)](https://holopin.io/@Max-v2)
 
 <!--Contact Section--> 
 
