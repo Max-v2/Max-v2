@@ -50,7 +50,7 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center"><iframe src="https://giphy.com/embed/iY8CRBdQXODJSCERIr" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/SurveyMonkey-chart-survey-surveymonkey-iY8CRBdQXODJSCERIr">via GIPHY</a></p> Gɪᴛʜᴜʙ Sᴛᴀᴛs <iframe src="https://giphy.com/embed/iY8CRBdQXODJSCERIr" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/SurveyMonkey-chart-survey-surveymonkey-iY8CRBdQXODJSCERIr">via GIPHY</a></p></h2>
+<h2 align="center"><img align="center" src="https://giphy.com/embed/iY8CRBdQXODJSCERIr" alt="GitHub Stats" /> Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
