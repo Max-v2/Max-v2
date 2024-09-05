@@ -15,7 +15,7 @@
 <!--Start Intro-->               
 <p align="left">I am a junior developer, a lifelong learning enthusiast with a great love for Python, cybersecurity, networking and scripting. </p>
 
-- <img src="https://giphy.com/stickers/math-metrics-annualreport-b7qG3o2B8SRYuXVcBZ" width="30"/> Student of the Faculty of Engineering at Udelar :)
+- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/b7qG3o2B8SRYuXVcBZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/math-metrics-annualreport-b7qG3o2B8SRYuXVcBZ">via GIPHY</a></p> Student of the Faculty of Engineering at Udelar :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Max-v2).
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
@@ -101,15 +101,6 @@
 
 ---
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
@@ -122,7 +113,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.instagram.com/your_instagram_handle/" target="_blank">
+<a href="https://www.instagram.com/Max26.uy/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
 </a>
 
