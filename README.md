@@ -36,7 +36,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,bootstrap,bash,powersell,kali,ubuntu,linux,dotnet,git,vscode,eclipse,github,php,mysql,linkedin,instagram,discord,docker,stackoverflow&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,cs,java,js,html,css,bootstrap,bash,powershell,kali,ubuntu,linux,dotnet,git,vscode,eclipse,github,php,mysql,linkedin,instagram,discord,docker,stackoverflow&perline=10"  />
 </p>
 <br />
 
