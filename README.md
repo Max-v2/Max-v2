@@ -1,10 +1,22 @@
-## 👋 Hola, soy Max
+<p align="center">
+<a href="https://github.com/tu-usuario">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Max+Alvarez;Desarrollador+%7C+Estudiante+de+Ingeniería;Seguridad+Informática+%7C+Desarrollo+de+Software" alt="Typing SVG" />
+</a>
+<br/>
 
-Soy un joven desarrollador y estudiante de Ingeniería en Informática, con una pasión profunda por la seguridad informática. Mi objetivo es utilizar mis conocimientos para crear software seguro y proteger sistemas de posibles vulnerabilidades.
+<a href="https://linkedin.com/in/alvarez-kevin">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:Kalvarez2@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
-</div>
+<br/>
+
+<a href="https://github.com/tu-usuario">
+    <img src="https://github-stats-alpha.vercel.app/api?username=tu-usuario&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+</p>
 
 ### 🚀 Lo que hago:
 
