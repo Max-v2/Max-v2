@@ -93,7 +93,7 @@
 <br />
 
 <!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlscnlkZXExdzRlczhjaG45bGQ4eTd3dWY3YmpxNWc4OXYzOGFhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j2MHloPxDewtuIigvT/giphy.gif" width ="25"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlscnlkZXExdzRlczhjaG45bGQ4eTd3dWY3YmpxNWc4OXYzOGFhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/j2MHloPxDewtuIigvT/giphy.gif" width ="25"></h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Max-v2&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
