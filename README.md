@@ -26,7 +26,7 @@
 <!--Profile Count Badge-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Max-v2&label=Profile%20views&color=770677&style=for-the-badge&logo=github" alt="Max-v2" style="padding-right:20px;" />
-  <img src="https://img.shields.io/github/followers/Max-v2?style=social"  style="padding-right:20px;" />
+  <img src="https://img.shields.io/github/followers/Max-v2?label=Followers&color=770677&style=for-the-badge&logo=github" alt="GitHub Followers" style="padding-right:20px;" />
   <img src="https://img.shields.io/github/stars/Max-v2?label=Stars&color=770677&style=for-the-badge&logo=github" alt="GitHub Stars" />
 </p>
 
