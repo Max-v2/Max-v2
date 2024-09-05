@@ -15,7 +15,7 @@
 <!--Start Intro-->               
 <p align="left">I am a junior developer, a lifelong learning enthusiast with a great love for Python, cybersecurity, networking and scripting. </p>
 
-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/b7qG3o2B8SRYuXVcBZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/math-metrics-annualreport-b7qG3o2B8SRYuXVcBZ">via GIPHY</a></p> Student of the Faculty of Engineering at Udelar :)
+- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/b7qG3o2B8SRYuXVcBZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/stickers/math-metrics-annualreport-b7qG3o2B8SRYuXVcBZ">via GIPHY</a></p> Student of the Faculty of Engineering at Udelar :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Max-v2).
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
