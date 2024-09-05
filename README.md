@@ -47,7 +47,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Max-v2&column=3&margin-w=15&margin-h=15&theme=nord" alt="GitHub Trophies">
   </a>
 </p>
-<br />
+<br/>
 
 <!--Github stats Table--> 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Gɪᴛʜᴜʙ Sᴛᴀᴛs <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"></h2>
