@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/tu-usuario">
+<a href="https://github.com/Max-v2">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Max+Alvarez;Desarrollador+%7C+Estudiante+de+Ingeniería;Seguridad+Informática+%7C+Desarrollo+de+Software" alt="Typing SVG" />
 </a>
 <br/>
@@ -13,10 +13,10 @@
 
 <br/>
 
-<a href="https://github.com/tu-usuario">
-    <img src="https://github-stats-alpha.vercel.app/api?username=tu-usuario&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://github.com/Max-v2">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Max-v2&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-</p> 
+</p>
 
 ### 🚀 Lo que hago:
 
@@ -50,17 +50,17 @@
 ### 📊 Estadísticas de GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Max-v2&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-v2&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-v2&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 🚀 Proyectos Destacados:
 
 <ul>
-  <li><a href="https://github.com/tu-usuario/proyecto1"><strong>Proyecto 1:</strong> Descripción breve del proyecto.</a></li>
-  <li><a href="https://github.com/tu-usuario/proyecto2"><strong>Proyecto 2:</strong> Descripción breve del proyecto.</a></li>
-  <li><a href="https://github.com/tu-usuario/proyecto3"><strong>Proyecto 3:</strong> Descripción breve del proyecto.</a></li>
+  <li><a href="https://github.com/Max-v2/proyecto1"><strong>Proyecto 1:</strong> Descripción breve del proyecto.</a></li>
+  <li><a href="https://github.com/Max-v2/proyecto2"><strong>Proyecto 2:</strong> Descripción breve del proyecto.</a></li>
+  <li><a href="https://github.com/Max-v2/proyecto3"><strong>Proyecto 3:</strong> Descripción breve del proyecto.</a></li>
 </ul>
 
 <div align="center">
@@ -72,10 +72,10 @@
 <br>
 Mis estadísticas de GitHub
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tu-usuario&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-v2&theme=dracula) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tu-usuario&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tu-usuario&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Max-v2&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Max-v2&theme=dracula)
 
 <br>
 Actualmente codificando y escuchando:
