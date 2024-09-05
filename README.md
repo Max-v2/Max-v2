@@ -8,16 +8,16 @@
 
 <!--Header Name-->
 # <img src="https://github.com/Max-v2/Max-v2/blob/main/Img/Earth.gif" width="30"/> ɪ'ᴍ ᴋᴇᴠɪɴ ᴀʟᴠᴀʀᴇᴢ! 
-*Digital Craftsman (Developer jr / Programmer)* <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+*<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Digital Craftsman (Developer jr / Programmer)*
 <br /> 
 
 
 <!--Start Intro-->               
 <p align="left">I am a junior developer, a lifelong learning enthusiast with a great love for Python, cybersecurity, networking and scripting. </p>
 
-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGkyNGFsdzkxNGdwYzNma2hmNzVzbWs5dXZ1ODR4ZWgxdWVucXk2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/b7qG3o2B8SRYuXVcBZ/giphy.gif" width="30"/> Student of the Faculty of Engineering at Udelar :)
-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJrYnV5ODFmeTUzeXlweWJodm05djc0OXR4a2huNmZhb3JjM2R3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/S5PNidIeEv3knjwB3a/giphy.gif" width="30"/> I’m currently learning many things, I believe that everyday is a learning opportunity.
-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHBoYmtzMmMyNXJwanRhYmhmdGg1ajBxY2RhM3JudGowb2g5dnJkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qzlDwEfl9D4ajipglN/giphy.gif" width="30"/> I like to learn with challenges.
+- ✨ Student of the Faculty of Engineering at Udelar :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 🏙  I like to learn with challenges.
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
 - ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/).
 - ❤ Contributing to Open Source.
@@ -100,6 +100,7 @@
 </div>
 
 ---
+
 
 <!--Contact Section--> 
 
