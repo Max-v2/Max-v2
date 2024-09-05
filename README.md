@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF79C6&size=24&center=true&vCenter=true&lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+un+desarrollador+apasionado." alt="Typing SVG">
-</p>
-
-<p align="center">
   <a href="https://github.com/Max-v2">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kevin+Alvarez;Desarrollador+de+Software;Seguridad+Informática+%7C+Aprendizaje+Continuo" alt="Typing SVG" />
   </a>
