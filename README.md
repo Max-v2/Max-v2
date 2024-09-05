@@ -75,8 +75,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Max-v2/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Max-v2&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/Max-v2/BlumFarm">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Max-v2&repo=BlumFarm&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
