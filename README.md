@@ -8,13 +8,13 @@
 
 <!--Header Name-->
 # <img src="https://github.com/Max-v2/Max-v2/blob/main/Img/Earth.gif" width="30"/> ɪ'ᴍ Kevin Alvarez! 
-*Digital Craftsman (Developer / Programmer)*
+*<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Digital Craftsman (Developer jr / Programmer jr)*
 <br /> 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I'm a junior developer, Machine Learning enthusiast with a great love for Python, cybersecurity, networking, scripting. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
