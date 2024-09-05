@@ -43,7 +43,7 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/Max-v2/github-profile-trophy">
+  <a href="https://github.com/Max-v2">
     <img src="https://github-profile-trophy.vercel.app/?username=Max-v2&row=2&column=6&margin-w=20&margin-h=20&no-bg=true&no-frame=true&title_color=ffffff" alt="GitHub Trophies">
   </a>
 </p>
