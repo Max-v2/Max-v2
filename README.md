@@ -25,7 +25,7 @@
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Max-v2&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Max-v2" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Max-v2&label=Profile%20views&color=770677&style=for-the-badge&logo=github" alt="Max-v2" style="padding-right:20px;" />
   <img src="https://img.shields.io/github/followers/Max-v2?label=Followers&color=770677&style=for-the-badge&logo=github" alt="GitHub Followers" style="padding-right:20px;" />
   <img src="https://img.shields.io/github/stars/Max-v2?label=Stars&color=770677&style=for-the-badge&logo=github" alt="GitHub Stars" />
 </p>
@@ -44,7 +44,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Max-v2/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Max-v2&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=Max-v2&row=2&column=6&margin-w=20&margin-h=20&no-bg=true&no-frame=true" alt="GitHub Trophies">
   </a>
 </p>
 <br />
@@ -97,7 +97,6 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Max-v2&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
-
 
 <!--Contact Section--> 
 
