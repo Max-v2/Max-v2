@@ -44,7 +44,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Max-v2">
-    <img src="https://github-profile-trophy.vercel.app/?username=Max-v2&theme=juicyfresh" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=Max-v2&theme=nightowl" alt="GitHub Trophies">
   </a>
 </p>
 <br />
