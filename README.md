@@ -1,15 +1,7 @@
 <p align="center">
-<a href="https://github.com/Max-v2">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Max+Alvarez;Desarrollador+%7C+Estudiante+de+Ingeniería;Seguridad+Informática+%7C+Desarrollo+de+Software&color=37BCF6&background=22272E" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF79C6&center=true&vCenter=true&lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+un+desarrollador+apasionado." alt="Typing SVG">
+</p>
 <br/>
-
-<a href="https://linkedin.com/in/alvarez-kevin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:Kalvarez2@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
-</a>
 
 <br/>
 
@@ -43,10 +35,6 @@
   <li><strong>Blog/Website:</strong> Próximamente</li>
 </ul>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-</div>
-
 ### 📊 Estadísticas de GitHub:
 
 <p align="center">
@@ -55,31 +43,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-v2&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
-### 🚀 Proyectos Destacados:
-
-<ul>
-  <li><a href="https://github.com/Max-v2/proyecto1"><strong>Proyecto 1:</strong> Descripción breve del proyecto.</a></li>
-  <li><a href="https://github.com/Max-v2/proyecto2"><strong>Proyecto 2:</strong> Descripción breve del proyecto.</a></li>
-  <li><a href="https://github.com/Max-v2/proyecto3"><strong>Proyecto 3:</strong> Descripción breve del proyecto.</a></li>
-</ul>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
-</div>
+# 📈 Stats
 
 <details>
-<summary>📈 Stats</summary>
-<br>
-Mis estadísticas de GitHub
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-v2&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Max-v2&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Max-v2&theme=dracula)
-
-<br>
-Actualmente codificando y escuchando:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
-
+  <summary>Ver estadísticas</summary>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-v2&theme=dracula" alt="Profile Details" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Max-v2&theme=dracula" alt="Repos per Language" width="49%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Max-v2&theme=dracula" alt="Most Commit Language" width="49%">
 </details>
