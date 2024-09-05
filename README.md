@@ -12,11 +12,10 @@
 <br /> 
 
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <!--Start Intro-->               
-<p align="left">I'm a junior developer, Machine Learning enthusiast with a great love for Python, cybersecurity, networking, scripting. </p>
+<p align="left">I am a junior developer, a lifelong learning enthusiast with a great love for Python, cybersecurity, networking and scripting. </p>
 
-- ✨ Student of life :)
+- <img src="https://giphy.com/embed/b7qG3o2B8SRYuXVcBZ" width="30"/> Student of the Faculty of Engineering at Udelar :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Max-v2).
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
@@ -77,8 +76,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Max-v2/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Max-v2&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        <a href="https://github.com/Max-v2/BlumFarm">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Max-v2&repo=BlumFarm&theme=nightowl&show_owner=true" alt="BlumFarm Project" />
         </a>
       </p>
     </td>
