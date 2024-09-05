@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF79C6&center=true&vCenter=true&lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+un+desarrollador+apasionado." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF79C6&size=30&center=true&vCenter=true&lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+un+desarrollador+apasionado." alt="Typing SVG">
 </p>
-<br/>
 
-<details>
-  <summary>Profile</summary>
-  <br>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-v2&theme=dracula" alt="Profile Details" width="100%">
-</details>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Max-v2&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-v2&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-v2&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
 
 ### 🚀 Lo que hago:
 
@@ -38,16 +40,6 @@
 ### 📊 Estadísticas de GitHub:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Max-v2&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-v2&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-v2&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
-# 📈 Stats
-
-<details>
-  <summary>Ver estadísticas</summary>
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Max-v2&theme=dracula" alt="Repos per Language" width="49%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Max-v2&theme=dracula" alt="Most Commit Language" width="49%">
-</details>
+</p>
