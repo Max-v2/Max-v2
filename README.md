@@ -7,7 +7,7 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Kevin Alvarez! 
+# <img src="https://www.flaticon.es/icono-animado-gratis/software_17122633?term=programacion&page=1&position=61&origin=search&related_id=17122633" width="30"/> ɪ'ᴍ Kevin Alvarez! 
 *Digital Craftsman (Developer / Programmer)*
 <br /> 
 
