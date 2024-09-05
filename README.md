@@ -1,15 +1,25 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF79C6&size=30&center=true&vCenter=true&lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+un+desarrollador+apasionado." alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF79C6&size=24&center=true&vCenter=true&lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+un+desarrollador+apasionado." alt="Typing SVG">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Max-v2">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Kevin+Alvarez;Desarrollador+de+Software;Seguridad+Informática+%7C+Aprendizaje+Continuo" alt="Typing SVG" />
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/alvarez-kevin/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:Kalvarez2@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Max-v2">
+    <img src="https://img.shields.io/github/followers/Max-v2?label=Followers&style=social">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-v2&theme=dracula" alt="Profile Details" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Max-v2&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-v2&theme=dracula" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-v2&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
 ### 🚀 Lo que hago:
@@ -40,6 +50,14 @@
 ### 📊 Estadísticas de GitHub:
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Max-v2&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-v2&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-v2&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+<details>
+  <summary>Ver estadísticas</summary>
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Max-v2&theme=dracula" alt="Repos per Language" width="49%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Max-v2&theme=dracula" alt="Most Commit Language" width="49%">
-</p>
+</details>
