@@ -3,12 +3,12 @@
 </p>
 <br/>
 
-<br/>
+<details>
+  <summary>Profile</summary>
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-v2&theme=dracula" alt="Profile Details" width="100%">
+</details>
 
-<a href="https://github.com/Max-v2">
-    <img src="https://github-stats-alpha.vercel.app/api?username=Max-v2&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
-</p>
 
 ### 🚀 Lo que hago:
 
@@ -48,7 +48,6 @@
 <details>
   <summary>Ver estadísticas</summary>
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-v2&theme=dracula" alt="Profile Details" width="100%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Max-v2&theme=dracula" alt="Repos per Language" width="49%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Max-v2&theme=dracula" alt="Most Commit Language" width="49%">
 </details>
