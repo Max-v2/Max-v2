@@ -18,9 +18,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-v2&theme=dracula" alt="Profile Details" width="100%">
-</p>
+
 
 ### 🚀 Lo que hago:
 
@@ -58,6 +56,9 @@
 <details>
   <summary>Ver estadísticas</summary>
   <br>
+  <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Max-v2&theme=dracula" alt="Profile Details" width="100%">
+  </p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Max-v2&theme=dracula" alt="Repos per Language" width="49%">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Max-v2&theme=dracula" alt="Most Commit Language" width="49%">
 </details>
