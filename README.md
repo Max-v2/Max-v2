@@ -1,14 +1,14 @@
 <p align="center">
 <a href="https://github.com/Max-v2">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Max+Alvarez;Desarrollador+%7C+Estudiante+de+Ingeniería;Seguridad+Informática+%7C+Desarrollo+de+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Max+Alvarez;Desarrollador+%7C+Estudiante+de+Ingeniería;Seguridad+Informática+%7C+Desarrollo+de+Software&color=37BCF6&background=22272E" alt="Typing SVG" />
 </a>
 <br/>
 
 <a href="https://linkedin.com/in/alvarez-kevin">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:Kalvarez2@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 <br/>
