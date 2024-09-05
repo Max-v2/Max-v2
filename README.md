@@ -128,6 +128,3 @@
  
  </br>
  
-## &nbsp; &nbsp; &nbsp;🔥 My Motto
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme
