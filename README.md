@@ -8,14 +8,14 @@
 
 <!--Header Name-->
 # <img src="https://github.com/Max-v2/Max-v2/blob/main/Img/Earth.gif" width="30"/> ɪ'ᴍ ᴋᴇᴠɪɴ ᴀʟᴠᴀʀᴇᴢ! 
-*<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  Digital Craftsman (Developer jr / Programmer)*
+*Digital Craftsman (Developer jr / Programmer)* <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 <br /> 
 
 
 <!--Start Intro-->               
 <p align="left">I am a junior developer, a lifelong learning enthusiast with a great love for Python, cybersecurity, networking and scripting. </p>
 
-- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><img src="https://giphy.com/embed/b7qG3o2B8SRYuXVcBZ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div><p><a href="https://giphy.com/stickers/math-metrics-annualreport-b7qG3o2B8SRYuXVcBZ">via GIPHY</a></p> Student of the Faculty of Engineering at Udelar :)
+- <img src="https://giphy.com/stickers/math-metrics-annualreport-b7qG3o2B8SRYuXVcBZ" width="30"/> Student of the Faculty of Engineering at Udelar :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Max-v2).
 - 💁‍♂️ Volunteer MOD at **Dev Community**.
