@@ -16,7 +16,7 @@
 <a href="https://github.com/tu-usuario">
     <img src="https://github-stats-alpha.vercel.app/api?username=tu-usuario&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-</p>
+</p> 
 
 ### 🚀 Lo que hago:
 
@@ -46,3 +46,40 @@
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 </div>
+
+### 📊 Estadísticas de GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🚀 Proyectos Destacados:
+
+<ul>
+  <li><a href="https://github.com/tu-usuario/proyecto1"><strong>Proyecto 1:</strong> Descripción breve del proyecto.</a></li>
+  <li><a href="https://github.com/tu-usuario/proyecto2"><strong>Proyecto 2:</strong> Descripción breve del proyecto.</a></li>
+  <li><a href="https://github.com/tu-usuario/proyecto3"><strong>Proyecto 3:</strong> Descripción breve del proyecto.</a></li>
+</ul>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+</div>
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+Mis estadísticas de GitHub
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tu-usuario&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tu-usuario&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tu-usuario&theme=dracula)
+
+<br>
+Actualmente codificando y escuchando:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
+
+</details>
