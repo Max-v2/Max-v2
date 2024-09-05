@@ -41,7 +41,7 @@
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/ax-v2/github-profile-trophy">
+  <a href="https://github.com/Max-v2/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Max-v2&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
   </a>
 </p>
@@ -64,7 +64,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Max-v2">
-          <img align="center" src="https://streak-stats.demolab.com?user=Max-v2&theme=dracula" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Max-v2&theme=nightowl" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -74,7 +74,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Max-v2/cryptos">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Max-v2&repo=cryptos&theme=draculal&show_owner=true" alt="Cryptos Project" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Max-v2&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
         </a>
       </p>
     </td>
@@ -82,7 +82,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Max-v2">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Max-v2&limit=3&theme=dracula&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Max-v2&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
